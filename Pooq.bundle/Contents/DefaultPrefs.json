@@ -1,0 +1,22 @@
+[
+	{
+		"id": "id",
+		"label": "pooq ID - Version : 0.1.8 (by soju6jan)",
+		"type": "text",
+		"default": ""
+	},
+	{
+		"id": "pw",
+		"label": "pooq PW",
+		"type": "text",
+		"option":   "hidden",
+		"default": ""
+	},
+	{
+		"id": "url_show",
+		"label": "줄거리에 주소 표시",
+		"type": "bool",
+		"option":   "False",
+		"default": ""
+	}
+]
